@@ -2,7 +2,7 @@
 ![FuHua](https://media.tenor.com/Kuk7CLHnkzsAAAAi/honkai-fu-hua.gif)
 
 
-- 😄 Pronouns: Attack Helicopter
+- 😄 I'm an Attack Helicopter
 - 🔭 I’m currently working on making ubuntu 22.04 into a web server
 - 🌱 I’m currently learning Python
 <!--
