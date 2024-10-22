@@ -3,8 +3,8 @@
 
 
 - 😄 I'm an Attack Helicopter
-- 🔭 I’m currently working on making ubuntu 22.04 into a web server
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning to do something
 
 <!-- ![seele](https://img1.wikia.nocookie.net/__cb20120825191940/evangelion/images/4/4f/SEELE_Logo_%28NGE%29.png)
 
