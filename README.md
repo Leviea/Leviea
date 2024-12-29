@@ -5,7 +5,7 @@
 - 😄 I'm an Attack Helicopter
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning to do something
-
+- ⚡ Fun fact: The Universe's average colour is called 'Cosmic latte'
 <!-- ![seele](https://img1.wikia.nocookie.net/__cb20120825191940/evangelion/images/4/4f/SEELE_Logo_%28NGE%29.png)
 
 <!--
